@@ -17,7 +17,7 @@
 - [Bill of materials](bom.md)
 - [Assembly instructions](assembly.md)
 - [Marketing material](marketing_materials.md)
-- [Splash Website](http://splashwebsite)
+- [Splash Website](http://splash.fablabmade.com)
 - [Funding strategy](funding.md)
 
 
