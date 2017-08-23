@@ -6,9 +6,12 @@
 
 - [Requirements](requirements.md)
 - [Business Canvas](canvas.md)
+- [Product pitch](pitch.md)
+- [Team](team.md)
 - [Production plan](production.md)
 - [Marketing plan](marketing.md)
 - [Licensing](licensing.md)
+- [Funding strategy](funding.md)
 
 ## Product documentation
 
@@ -18,8 +21,6 @@
 - [Assembly instructions](assembly.md)
 - [Marketing material](marketing_materials.md)
 - [Splash Website](http://splash.fablabmade.com)
-- [Funding strategy](funding.md)
-
 
 ## Customer documentation
 
